@@ -8,4 +8,9 @@ class Index
     {
         return "this is index";
     }
+
+    public function indexT()
+    {
+        return "this is indexT";
+    }
 }
