@@ -1,0 +1,15 @@
+{
+    "name": "snowmaple/test",
+    "autoload": {
+        "psr-4": {
+            "Snowmaple\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SnowMaple",
+            "email": "1434244771@qq.com"
+        }
+    ],
+    "require": {}
+}
